@@ -1,6 +1,4 @@
-# app_creaty_widget_parser_engine
-
-A new Flutter plugin project.
+# App Creaty Widget Parser Engine
 
 ## Getting Started
 
